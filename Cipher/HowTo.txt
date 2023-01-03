@@ -1,0 +1,10 @@
+
+To encrypt or decrypt a file please put the textfile into
+the textfile folder, otherwise the program wont find it. Enter the 
+full name of the file in the console!
+
+There is also a file called text.txt that you can use.
+Enter exactly "text.txt".
+
+The key you enter is the key you WILL have to use to decrypt or encrypt
+the message back!
